@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessTheNumberApp</string>
+    <string name="guess_the_number">GUESS THE NUMBER</string>
+    <string name="countDown">Kalan Hak : 5</string>
+    <string name="increase1">ARTTIR</string>
+    <string name="increase2">AZALT</string>
+    <string name="start">START</string>
+    <string name="guess">TAHMİN ET</string>
+    <string name="guessAgain">TEKRAR</string>
+    <string name="result1">KAYBETTİNİZ !</string>
+    <string name="result2">KAZANDINIZ !</string>
+    <string name="input">Sayı Giriniz :</string>
+</resources>
